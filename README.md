@@ -1,16 +1,29 @@
-### Hi there 👋
+## :star2: Olá! :star2:
 
-<!--
-**HugoPoletto34/HugoPoletto34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou estudando na [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx) no curso de Engenharia de Software (Graduação) para me tornar um programador de primeira linha. Meus insteresses são _Web Development_ e _Game Development_. Sou muito curioso sobre tudo que envolve o mundo da tecnologia da informação e sempre procuro melhorar minhas habilidades comportamentais e técnicas.
+![](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-Here are some ideas to get you started:
+#### Linguagens de Programação
+- Java
+- JavaScript
+- C/C++
+- Python
+- Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Front-End
+Tecnologias | Conhecimento estimada (1 a 10) | Projetos 
+--|--|--
+HTML5-CSS-JavaScript | 8.5 | Death-Note-Quiz - dPoletto - DinossaurGame
+ReactJS-NextJS | 6 | ReactJS-Tic-Tac-Toe - Death-Note-Quiz - dPoletto
+
+#### Back-End
+Tecnologias | Conhecimento estimada (1 a 10) | Projetos
+--|--|--
+NodeJS | 7.5 | API-NodeJS
+
+#### Bancos de Dados
+Nome | Conhecimento estimada (1 a 10) | Projetos
+--|--|--
+PostgreSQL | 7 | dPoletto 
+Microsoft SQL Server | 8.5 | (sem projetos no GitHub)
+
