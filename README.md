@@ -19,11 +19,12 @@ ReactJS-NextJS | 6 | ReactJS-Tic-Tac-Toe - Death-Note-Quiz - dPoletto
 #### Back-End
 Tecnologias | Conhecimento estimada (1 a 10) | Projetos
 --|--|--
-NodeJS | 7.5 | API-NodeJS
+NodeJS | 7 | API-NodeJS
+Java | 8.5 | Simulador De Empacotamentos
 
 #### Bancos de Dados
 Nome | Conhecimento estimada (1 a 10) | Projetos
 --|--|--
 PostgreSQL | 7 | dPoletto 
-Microsoft SQL Server | 8.5 | (sem projetos no GitHub)
+Microsoft SQL Server | 6 | (sem projetos no GitHub)
 
