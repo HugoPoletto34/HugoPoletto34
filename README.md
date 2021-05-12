@@ -19,7 +19,7 @@ ReactJS-NextJS | ReactJS-Tic-Tac-Toe - Death-Note-Quiz - dPoletto
 Tecnologias | Projetos
 --|--
 NodeJS | API-NodeJS
-Java | Simulador De Empacotamentos
+Java | Simulador De Empacotamento
 
 #### Bancos de Dados
 Nome | Projetos
