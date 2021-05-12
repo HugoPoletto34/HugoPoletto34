@@ -11,19 +11,19 @@ Atualmente estou estudando na [PUC Minas](https://www.pucminas.br/main/Paginas/d
 
 #### Front-End
 Tecnologias | Projetos 
---|--|--
+--|--
 HTML5-CSS-JavaScript | Death-Note-Quiz - dPoletto - DinossaurGame
 ReactJS-NextJS | ReactJS-Tic-Tac-Toe - Death-Note-Quiz - dPoletto
 
 #### Back-End
 Tecnologias | Projetos
---|--|--
+--|--
 NodeJS | API-NodeJS
 Java | Simulador De Empacotamentos
 
 #### Bancos de Dados
 Nome | Projetos
---|--|--
+--|--
 PostgreSQL | dPoletto 
 Microsoft SQL Server | (sem projetos no GitHub)
 
