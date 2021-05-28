@@ -1,8 +1,12 @@
 ## :star2: Olá! :star2:
 
 Atualmente estou estudando na [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx) no curso de Engenharia de Software (Graduação) para me tornar um programador de primeira linha. Meus insteresses são _Web Development_ e _Game Development_. Sou muito curioso sobre tudo que envolve o mundo da tecnologia da informação e sempre procuro melhorar minhas habilidades comportamentais e técnicas.
-![](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; margin: 0 auto;">
+  <img src="bvaughn react.svg" alt="My cool logo" width="470" />
+  <img src="acdlite react.svg" alt="My cool logo" width="470" />
+  <img src="eps1lon react.svg" alt="My cool logo" width="470" />
+  <img src="rickhanlonii react.svg" alt="My cool logo" width="470" />
+</div>
 
 #### Linguagens de Programação
 - Java
