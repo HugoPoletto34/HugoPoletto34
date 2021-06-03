@@ -27,3 +27,5 @@ Nome | Projetos
 PostgreSQL | dPoletto 
 Microsoft SQL Server | (sem projetos no GitHub)
 
+[<img src="proposta-2.1.1.png" height="170" alt="Chart containing my top languages" />](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes)
+
