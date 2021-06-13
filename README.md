@@ -29,5 +29,7 @@ Microsoft SQL Server | (sem projetos no GitHub)
 
 [<img src="https://raw.githubusercontent.com/ssmi-research-group/githubEngagementAnalysis/certificate-image/Certificates/ICEI-PUC-Minas-PPLES-TI/plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes/HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg?token=AP7K42L327HKNIEQ6UPXP53AZ5I7C" height="170" alt="Chart containing my top languages" />](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes)
 
-<img src="https://raw.githubusercontent.com/ssmi-research-group/githubEngagementAnalysis/certificate-image/Certificates/ICEI-PUC-Minas-PPLES-TI/plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes/HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg?token=AP7K42L327HKNIEQ6UPXP53AZ5I7C" height="170" alt="Chart containing my top languages" />
+<img src="https://raw.githubusercontent.com/ssmi-research-group/githubEngagementAnalysis/certificate-image/Certificates/ICEI-PUC-Minas-PPLES-TI/plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes/HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg?token=AP7K42L327HKNIEQ6UPXP53AZ5I7C" height="220" alt="Chart containing my top languages" />
+
+![](https://raw.githubusercontent.com/ssmi-research-group/githubEngagementAnalysis/certificate-image/Certificates/ICEI-PUC-Minas-PPLES-TI/plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes/HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg?token=AP7K42L327HKNIEQ6UPXP53AZ5I7C)
 
