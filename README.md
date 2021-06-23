@@ -4,7 +4,7 @@ Atualmente estou estudando na [PUC Minas](https://www.pucminas.br/main/Paginas/d
 
 [<img src="HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
 [<img src="HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
-[<img src="HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
+[<img src="HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
 [<img src="HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
 
 #### Linguagens de Programação
