@@ -2,6 +2,11 @@
 
 Atualmente estou estudando na [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx) no curso de Engenharia de Software (Graduação) para me tornar um programador de primeira linha. Meus insteresses são _Web Development_ e _Game Development_. Sou muito curioso sobre tudo que envolve o mundo da tecnologia da informação e sempre procuro melhorar minhas habilidades comportamentais e técnicas.
 
+[<img src="HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
+[<img src="HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
+[<img src="HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
+[<img src="HugoPoletto34-plf-es-2020-2-tiii-0924100-e-sports-treino-entre-equipes.svg" height="170" />](https://github.com/icei-pucminas/pbe-pco-si-2021-1-ti-apn-8285100-prim)
+
 #### Linguagens de Programação
 - Java
 - JavaScript
