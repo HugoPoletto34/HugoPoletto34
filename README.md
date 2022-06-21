@@ -1,28 +1,18 @@
 ## :star2: Olá! :star2:
 
-Atualmente estou estudando na [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx) no curso de Engenharia de Software (Graduação) para me tornar um programador de primeira linha. Meus insteresses são _Web Development_ e _Game Development_. Sou muito curioso sobre tudo que envolve o mundo da tecnologia da informação e sempre procuro melhorar minhas habilidades comportamentais e técnicas.
+Atualmente estou estudando na [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx) no curso de Engenharia de Software (Graduação) e trabalhando como programador analista na [Reply Hermes](https://www.reply.com/brick-reply/br/hermes-reply) para me tornar um desenvolvedor de primeira linha. Meus insteresses são: Desenvolvimento Web, sistemas e Jogos. Sou muito curioso sobre tudo que envolve o mundo da tecnologia da informação e sempre procuro melhorar minhas habilidades comportamentais e técnicas.
 
 #### Linguagens de Programação
 - Java
 - JavaScript
-- C/C++
 - Python
-- Assembly
+- Dart
 
 #### Front-End
-Tecnologias | Projetos 
---|--
-HTML5-CSS-JavaScript | Death-Note-Quiz - dPoletto - DinossaurGame
-ReactJS-NextJS | ReactJS-Tic-Tac-Toe - Death-Note-Quiz - dPoletto
+- ReactJS/NextJS
+- Flutter
 
 #### Back-End
-Tecnologias | Projetos
---|--
-NodeJS | API-NodeJS
-Java | Simulador De Empacotamento
-
-#### Bancos de Dados
-Nome | Projetos
---|--
-PostgreSQL | dPoletto 
-Microsoft SQL Server | (sem projetos no GitHub)
+- NodeJS/NestJS
+- Spring Boot
+- 
