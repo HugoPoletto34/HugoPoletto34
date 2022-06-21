@@ -15,4 +15,3 @@ Atualmente estou estudando na [PUC Minas](https://www.pucminas.br/main/Paginas/d
 #### Back-End
 - NodeJS/NestJS
 - Spring Boot
-- 
